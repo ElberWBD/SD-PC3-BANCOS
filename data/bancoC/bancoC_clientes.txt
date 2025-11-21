@@ -1,0 +1,2 @@
+cedula|nombre
+3333|dasd

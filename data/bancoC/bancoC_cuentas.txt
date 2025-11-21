@@ -1,0 +1,2 @@
+numeroCuenta|cedula|saldo
+222|3333|900.0

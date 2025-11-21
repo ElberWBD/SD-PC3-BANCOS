@@ -1,0 +1,4 @@
+cedula|nombre
+123|Elber
+555|pepe
+999|gk
